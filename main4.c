@@ -27,3 +27,5 @@ int main() {
     printf("%d\n", max);
     return 0;
 }
+
+// yields correct answer 906609
