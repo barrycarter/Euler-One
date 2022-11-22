@@ -4,6 +4,7 @@
   pkgs.libgccjit
   pkgs.libgccjit
   pkgs.libgccjit
+  pkgs.libgccjit
   pkgs.gnat6
   pkgs.libgccjit
   pkgs.libgccjit

@@ -25,3 +25,5 @@ int main()
     return 0;
 }
 
+// requires -lm to compile
+// yields 104743, correct answer
